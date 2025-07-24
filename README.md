@@ -1,4 +1,4 @@
-👋 Hey, I’m Velsaravanan
+👋 Hey, I’m Vel Saravanan
 🔭 I’m not just learning to code — I’m learning to build things that matter. Products that solve real problems. Tools that lift even a small group of people. That’s the goal. That’s the fire.
 
 🚀 Right now, I’m focused on React Native and the MERN stack — because mobile-first, full-stack thinking is the fastest way to turn bold ideas into real impact.
